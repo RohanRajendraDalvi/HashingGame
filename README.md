@@ -1,0 +1,2 @@
+# HashingGame
+ HashingInquisition
